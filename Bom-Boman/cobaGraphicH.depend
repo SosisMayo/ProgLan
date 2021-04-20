@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618938860 source:d:\kuliah\tugas proglan\cobagraphich\main.cpp
+	<iostream>
+	<graphics.h>
+
